@@ -1,1 +1,2 @@
-# Slot-Machine-Game
+# Description
+A slot machine game written in C#. This programs will allow you to add a player, set your bet, and number of spins. This will track the total number of wins and total amount won. Results will be output to file. Previous results can be read from a file of necessary. 

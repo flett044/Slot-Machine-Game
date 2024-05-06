@@ -1,0 +1,17 @@
+\\Mac\Home\Desktop\CIS 207\HuyserCG3\HuyserCG3\bin\Debug\net6.0-windows\HuyserCG3.exe
+\\Mac\Home\Desktop\CIS 207\HuyserCG3\HuyserCG3\bin\Debug\net6.0-windows\HuyserCG3.deps.json
+\\Mac\Home\Desktop\CIS 207\HuyserCG3\HuyserCG3\bin\Debug\net6.0-windows\HuyserCG3.runtimeconfig.json
+\\Mac\Home\Desktop\CIS 207\HuyserCG3\HuyserCG3\bin\Debug\net6.0-windows\HuyserCG3.dll
+\\Mac\Home\Desktop\CIS 207\HuyserCG3\HuyserCG3\bin\Debug\net6.0-windows\HuyserCG3.pdb
+\\Mac\Home\Desktop\CIS 207\HuyserCG3\HuyserCG3\obj\Debug\net6.0-windows\HuyserCG3.SlotMachinesForm.resources
+\\Mac\Home\Desktop\CIS 207\HuyserCG3\HuyserCG3\obj\Debug\net6.0-windows\HuyserCG3.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\CIS 207\HuyserCG3\HuyserCG3\obj\Debug\net6.0-windows\HuyserCG3.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\CIS 207\HuyserCG3\HuyserCG3\obj\Debug\net6.0-windows\HuyserCG3.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\CIS 207\HuyserCG3\HuyserCG3\obj\Debug\net6.0-windows\HuyserCG3.AssemblyInfo.cs
+\\Mac\Home\Desktop\CIS 207\HuyserCG3\HuyserCG3\obj\Debug\net6.0-windows\HuyserCG3.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\CIS 207\HuyserCG3\HuyserCG3\obj\Debug\net6.0-windows\HuyserCG3.dll
+\\Mac\Home\Desktop\CIS 207\HuyserCG3\HuyserCG3\obj\Debug\net6.0-windows\refint\HuyserCG3.dll
+\\Mac\Home\Desktop\CIS 207\HuyserCG3\HuyserCG3\obj\Debug\net6.0-windows\HuyserCG3.pdb
+\\Mac\Home\Desktop\CIS 207\HuyserCG3\HuyserCG3\obj\Debug\net6.0-windows\HuyserCG3.genruntimeconfig.cache
+\\Mac\Home\Desktop\CIS 207\HuyserCG3\HuyserCG3\obj\Debug\net6.0-windows\ref\HuyserCG3.dll
+\\Mac\Home\Desktop\CIS 207\HuyserCG3\HuyserCG3\obj\Debug\net6.0-windows\HuyserCG3.Properties.Resources.resources

@@ -1,0 +1,35 @@
+C:\Users\Fleet\Downloads\HuyserCG3\HuyserCG3\bin\Debug\net8.0-windows\HuyserCG3.exe
+C:\Users\Fleet\Downloads\HuyserCG3\HuyserCG3\bin\Debug\net8.0-windows\HuyserCG3.deps.json
+C:\Users\Fleet\Downloads\HuyserCG3\HuyserCG3\bin\Debug\net8.0-windows\HuyserCG3.runtimeconfig.json
+C:\Users\Fleet\Downloads\HuyserCG3\HuyserCG3\bin\Debug\net8.0-windows\HuyserCG3.dll
+C:\Users\Fleet\Downloads\HuyserCG3\HuyserCG3\bin\Debug\net8.0-windows\HuyserCG3.pdb
+C:\Users\Fleet\Downloads\HuyserCG3\HuyserCG3\obj\Debug\net8.0-windows\HuyserCG3.Properties.Resources.resources
+C:\Users\Fleet\Downloads\HuyserCG3\HuyserCG3\obj\Debug\net8.0-windows\HuyserCG3.SlotMachinesForm.resources
+C:\Users\Fleet\Downloads\HuyserCG3\HuyserCG3\obj\Debug\net8.0-windows\HuyserCG3.csproj.GenerateResource.cache
+C:\Users\Fleet\Downloads\HuyserCG3\HuyserCG3\obj\Debug\net8.0-windows\HuyserCG3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fleet\Downloads\HuyserCG3\HuyserCG3\obj\Debug\net8.0-windows\HuyserCG3.AssemblyInfoInputs.cache
+C:\Users\Fleet\Downloads\HuyserCG3\HuyserCG3\obj\Debug\net8.0-windows\HuyserCG3.AssemblyInfo.cs
+C:\Users\Fleet\Downloads\HuyserCG3\HuyserCG3\obj\Debug\net8.0-windows\HuyserCG3.csproj.CoreCompileInputs.cache
+C:\Users\Fleet\Downloads\HuyserCG3\HuyserCG3\obj\Debug\net8.0-windows\HuyserCG3.dll
+C:\Users\Fleet\Downloads\HuyserCG3\HuyserCG3\obj\Debug\net8.0-windows\refint\HuyserCG3.dll
+C:\Users\Fleet\Downloads\HuyserCG3\HuyserCG3\obj\Debug\net8.0-windows\HuyserCG3.pdb
+C:\Users\Fleet\Downloads\HuyserCG3\HuyserCG3\obj\Debug\net8.0-windows\HuyserCG3.genruntimeconfig.cache
+C:\Users\Fleet\Downloads\HuyserCG3\HuyserCG3\obj\Debug\net8.0-windows\ref\HuyserCG3.dll
+C:\Users\Fleet\CIS 237\Slot-Machine-Game\HuyserCG3\bin\Debug\net8.0-windows\HuyserCG3.exe
+C:\Users\Fleet\CIS 237\Slot-Machine-Game\HuyserCG3\bin\Debug\net8.0-windows\HuyserCG3.deps.json
+C:\Users\Fleet\CIS 237\Slot-Machine-Game\HuyserCG3\bin\Debug\net8.0-windows\HuyserCG3.runtimeconfig.json
+C:\Users\Fleet\CIS 237\Slot-Machine-Game\HuyserCG3\bin\Debug\net8.0-windows\HuyserCG3.dll
+C:\Users\Fleet\CIS 237\Slot-Machine-Game\HuyserCG3\bin\Debug\net8.0-windows\HuyserCG3.pdb
+C:\Users\Fleet\CIS 237\Slot-Machine-Game\HuyserCG3\obj\Debug\net8.0-windows\HuyserCG3.Properties.Resources.resources
+C:\Users\Fleet\CIS 237\Slot-Machine-Game\HuyserCG3\obj\Debug\net8.0-windows\HuyserCG3.SlotMachinesForm.resources
+C:\Users\Fleet\CIS 237\Slot-Machine-Game\HuyserCG3\obj\Debug\net8.0-windows\HuyserCG3.csproj.GenerateResource.cache
+C:\Users\Fleet\CIS 237\Slot-Machine-Game\HuyserCG3\obj\Debug\net8.0-windows\HuyserCG3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fleet\CIS 237\Slot-Machine-Game\HuyserCG3\obj\Debug\net8.0-windows\HuyserCG3.AssemblyInfoInputs.cache
+C:\Users\Fleet\CIS 237\Slot-Machine-Game\HuyserCG3\obj\Debug\net8.0-windows\HuyserCG3.AssemblyInfo.cs
+C:\Users\Fleet\CIS 237\Slot-Machine-Game\HuyserCG3\obj\Debug\net8.0-windows\HuyserCG3.csproj.CoreCompileInputs.cache
+C:\Users\Fleet\CIS 237\Slot-Machine-Game\HuyserCG3\obj\Debug\net8.0-windows\HuyserCG3.sourcelink.json
+C:\Users\Fleet\CIS 237\Slot-Machine-Game\HuyserCG3\obj\Debug\net8.0-windows\HuyserCG3.dll
+C:\Users\Fleet\CIS 237\Slot-Machine-Game\HuyserCG3\obj\Debug\net8.0-windows\refint\HuyserCG3.dll
+C:\Users\Fleet\CIS 237\Slot-Machine-Game\HuyserCG3\obj\Debug\net8.0-windows\HuyserCG3.pdb
+C:\Users\Fleet\CIS 237\Slot-Machine-Game\HuyserCG3\obj\Debug\net8.0-windows\HuyserCG3.genruntimeconfig.cache
+C:\Users\Fleet\CIS 237\Slot-Machine-Game\HuyserCG3\obj\Debug\net8.0-windows\ref\HuyserCG3.dll
